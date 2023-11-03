@@ -1,0 +1,5 @@
+# I don't want to track the following files from my repo
+password.txt
+
+# I also want a git to execute the following directories
+do_not_track/
